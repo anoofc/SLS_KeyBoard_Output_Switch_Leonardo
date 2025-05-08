@@ -83,5 +83,5 @@ MIT License. For Non-Commercial Use Only. Give credit to the author.
 
 ## 👨‍💻 Author
 
-Developed by Anoof Chappangathil
+Developed by Anoof Chappangathil </br>
 Designed for DFRobot Leonardo Ethernet PoE projects.
