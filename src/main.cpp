@@ -1,4 +1,4 @@
-#define DEBUG 1
+#define DEBUG 0
 
 #define LED_PIN 3
 #define NUM_PIXELS 20
